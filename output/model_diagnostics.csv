@@ -1,0 +1,25 @@
+model,test_type,statistic,p_val,type
+All counties,Asymptotic one-sample Kolmogorov-Smirnov test,0.06311728230088598,0.007686993255642258,tertile
+All counties,DHARMa nonparametric dispersion test via sd of residuals fitted vs. simulated,0.3070937101316707,1,tertile
+All counties,DHARMa outlier test based on exact binomial test with approximate expectations,5,1,tertile
+Large Metropolitan,Asymptotic one-sample Kolmogorov-Smirnov test,0.06458046129105999,0.8034268817220962,tertile
+Large Metropolitan,DHARMa nonparametric dispersion test via sd of residuals fitted vs. simulated,0.0839508390477607,0.424,tertile
+Large Metropolitan,DHARMa bootstrapped outlier test,1,0.44,tertile
+Medium/Small Metropolitan,Asymptotic one-sample Kolmogorov-Smirnov test,0.07165454938425084,0.39972269243465364,tertile
+Medium/Small Metropolitan,DHARMa nonparametric dispersion test via sd of residuals fitted vs. simulated,0.5502601726427753,0.768,tertile
+Medium/Small Metropolitan,DHARMa bootstrapped outlier test,0,1,tertile
+Micropolitan/Non-core,Asymptotic one-sample Kolmogorov-Smirnov test,0.09740551299213707,4.469455829497823e-4,tertile
+Micropolitan/Non-core,DHARMa nonparametric dispersion test via sd of residuals fitted vs. simulated,0.4109340991982996,0.752,tertile
+Micropolitan/Non-core,DHARMa bootstrapped outlier test,0,1,tertile
+All counties,Asymptotic one-sample Kolmogorov-Smirnov test,0.04931638400893079,0.06706384996424909,continuous
+All counties,DHARMa nonparametric dispersion test via sd of residuals fitted vs. simulated,0.38791795528956446,0.984,continuous
+All counties,DHARMa outlier test based on exact binomial test with approximate expectations,5,1,continuous
+Large Metropolitan,Exact one-sample Kolmogorov-Smirnov test,0.05565269179869863,0.9020619092576091,continuous
+Large Metropolitan,DHARMa nonparametric dispersion test via sd of residuals fitted vs. simulated,0.12901550006153673,0.36,continuous
+Large Metropolitan,DHARMa bootstrapped outlier test,1,0.28,continuous
+Medium/Small Metropolitan,Asymptotic one-sample Kolmogorov-Smirnov test,0.09556627050276176,0.11572770082219559,continuous
+Medium/Small Metropolitan,DHARMa nonparametric dispersion test via sd of residuals fitted vs. simulated,0.5124902626022714,0.784,continuous
+Medium/Small Metropolitan,DHARMa bootstrapped outlier test,0,1,continuous
+Micropolitan/Non-core,Asymptotic one-sample Kolmogorov-Smirnov test,0.0728054327766493,0.018256890964378842,continuous
+Micropolitan/Non-core,DHARMa nonparametric dispersion test via sd of residuals fitted vs. simulated,0.26462240648919644,0.648,continuous
+Micropolitan/Non-core,DHARMa bootstrapped outlier test,0,1,continuous

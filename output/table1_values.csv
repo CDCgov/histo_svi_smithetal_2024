@@ -1,0 +1,29 @@
+model,effect,component,group,term,estimate,std.error,statistic,p.value,conf.low,conf.high,type,level,svi
+All counties,fixed,cond,NA,household_disability_tertileMid,1.28,0.04482878185597643,5.546380463913332,2.9164385043921245e-8,1.17,1.4,tertile,Mid,household_disability_tertile
+All counties,fixed,cond,NA,household_disability_tertileHigh,1.27,0.05311480149226196,4.444581178575695,8.806325228203963e-6,1.14,1.41,tertile,High,household_disability_tertile
+All counties,fixed,cond,NA,socioeconomic_status_tertileMid,0.67,0.04776509611561846,-8.530999839582847,1.4508823743841668e-17,0.61,0.73,tertile,Mid,socioeconomic_status_tertile
+All counties,fixed,cond,NA,socioeconomic_status_tertileHigh,0.71,0.06712702688147713,-5.016527869536602,5.261364738544943e-7,0.63,0.81,tertile,High,socioeconomic_status_tertile
+All counties,fixed,cond,NA,minority_language_tertileMid,0.93,0.06304522059775645,-1.114574779881479,0.2650326828030206,0.82,1.05,tertile,Mid,minority_language_tertile
+All counties,fixed,cond,NA,minority_language_tertileHigh,0.86,0.06304489456884824,-2.425282820985429,0.01529646497008516,0.76,0.97,tertile,High,minority_language_tertile
+All counties,fixed,cond,NA,housing_transportation_tertileMid,0.96,0.04648603149027917,-0.8697580431527608,0.38443264484614253,0.88,1.05,tertile,Mid,housing_transportation_tertile
+All counties,fixed,cond,NA,housing_transportation_tertileHigh,1.12,0.0443107392416788,2.639768747600757,0.00829626158886317,1.03,1.23,tertile,High,housing_transportation_tertile
+All counties,fixed,cond,NA,healthcare_infrastructure_tertileMid,1.25,0.03612950114150808,6.243905054874189,4.267791132838066e-10,1.17,1.35,tertile,Mid,healthcare_infrastructure_tertile
+All counties,fixed,cond,NA,healthcare_infrastructure_tertileHigh,1.29,0.04749758158543023,5.398742279069241,6.710969558717089e-8,1.18,1.42,tertile,High,healthcare_infrastructure_tertile
+All counties,fixed,cond,NA,medical_vulnerability_tertileMid,1.16,0.04993688141340753,2.9523220121216056,0.00315393837747542,1.05,1.28,tertile,Mid,medical_vulnerability_tertile
+All counties,fixed,cond,NA,medical_vulnerability_tertileHigh,1.57,0.06893066773078076,6.502363315033195,7.906785435185609e-11,1.37,1.79,tertile,High,medical_vulnerability_tertile
+All counties,fixed,zi,NA,household_disability_tertileMid,0.81,0.2776657492613295,0.7736236397538331,0.4391533882798523,1.39,0.47,tertile,Mid,household_disability_tertile
+All counties,fixed,zi,NA,household_disability_tertileHigh,1.12,0.32202439385458914,-0.3481951489134687,0.7276936307180696,2.1,0.6,tertile,High,household_disability_tertile
+All counties,fixed,zi,NA,socioeconomic_status_tertileMid,1.17,0.3570283413387657,-0.4290677124270068,0.6678739483842295,2.35,0.58,tertile,Mid,socioeconomic_status_tertile
+All counties,fixed,zi,NA,socioeconomic_status_tertileHigh,0.5,0.4467188775488947,1.5451983173491868,0.1222983012502722,1.2,0.21,tertile,High,socioeconomic_status_tertile
+All counties,fixed,zi,NA,minority_language_tertileMid,1.88,0.23885982025379457,-2.631709755804965,0.00849564063746692,2.99,1.17,tertile,Mid,minority_language_tertile
+All counties,fixed,zi,NA,minority_language_tertileHigh,5.82,0.3839718621422734,-4.589031091903818,4.453081055555498e-6,12.36,2.74,tertile,High,minority_language_tertile
+All counties,fixed,zi,NA,housing_transportation_tertileMid,1.25,0.26659191717947284,-0.8261071190058503,0.40874332967187527,2.1,0.74,tertile,Mid,housing_transportation_tertile
+All counties,fixed,zi,NA,housing_transportation_tertileHigh,1.18,0.29042906781991373,-0.5796757142990325,0.5621333236292406,2.09,0.67,tertile,High,housing_transportation_tertile
+All counties,fixed,zi,NA,healthcare_infrastructure_tertileMid,0.79,0.2703330720940202,0.8912739505664939,0.37278222003209344,1.33,0.46,tertile,Mid,healthcare_infrastructure_tertile
+All counties,fixed,zi,NA,healthcare_infrastructure_tertileHigh,0.81,0.2701033653370546,0.7861927853030489,0.4317545521835987,1.37,0.48,tertile,High,healthcare_infrastructure_tertile
+All counties,fixed,zi,NA,medical_vulnerability_tertileMid,1.24,0.3362573217526487,-0.6335281853955814,0.5263887810032246,2.39,0.64,tertile,Mid,medical_vulnerability_tertile
+All counties,fixed,zi,NA,medical_vulnerability_tertileHigh,1.32,0.4386304777631128,-0.6258037464686148,0.5314436741894848,3.11,0.56,tertile,High,medical_vulnerability_tertile
+All counties,fixed,cond,NA,rural_score_summMedium/Small Metropolitan,1.8802340212252733,0.03970469253481473,15.902307968169104,6.107266528563718e-57,1.7394630629355095,2.0323972666639096,tertile,NA,NA
+All counties,fixed,cond,NA,rural_score_summMicropolitan/Non-core,1.7875451290297077,0.05149438679638463,11.279738985409814,1.6523550654149335e-29,1.6159388172185127,1.9773753525012037,tertile,NA,NA
+All counties,fixed,zi,NA,rural_score_summMedium/Small Metropolitan,1.217876393845975,0.4471974920142897,-0.4407642814924203,0.6593836544621433,2.925892784486684,0.5069300278367825,tertile,NA,NA
+All counties,fixed,zi,NA,rural_score_summMicropolitan/Non-core,0.6116658986950053,0.41186733014518734,1.193513121151372,0.23266847651457245,1.3711860164777072,0.2728551539545628,tertile,NA,NA

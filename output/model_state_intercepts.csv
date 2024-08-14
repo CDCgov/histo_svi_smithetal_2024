@@ -1,0 +1,129 @@
+model,component,grpvar,term,grp,condval,condsd,type
+All counties,cond,state,(Intercept),AR,0.29187640190344305,0.3310267734586061,tertile
+All counties,cond,state,(Intercept),IL,0.7179484865607721,0.3284940886719815,tertile
+All counties,cond,state,(Intercept),IN,0.45944959704561816,0.32911047589422693,tertile
+All counties,cond,state,(Intercept),KY,0.050666784529564975,0.33188115669775436,tertile
+All counties,cond,state,(Intercept),MI,0.4376319915558368,0.32842841193869876,tertile
+All counties,cond,state,(Intercept),MN,1.0334712485174355,0.3294341719957154,tertile
+All counties,cond,state,(Intercept),PA,-1.842605023573434,0.34137703967862754,tertile
+All counties,cond,state,(Intercept),WI,-1.1299930374722602,0.33886862336170603,tertile
+All counties,zi,state,(Intercept),AR,-0.699367625333323,0.5007632490325503,tertile
+All counties,zi,state,(Intercept),IL,-0.9113518241240481,0.4790149880490212,tertile
+All counties,zi,state,(Intercept),IN,-0.4809393241206312,0.47539536184675685,tertile
+All counties,zi,state,(Intercept),KY,0.10664101999366214,0.45351376240814034,tertile
+All counties,zi,state,(Intercept),MI,-0.6678580730880566,0.4838790373362765,tertile
+All counties,zi,state,(Intercept),MN,-0.42653695516863727,0.5090677633831409,tertile
+All counties,zi,state,(Intercept),PA,2.2480202844426653,0.5112391888867364,tertile
+All counties,zi,state,(Intercept),WI,0.9578376822445434,0.47423609799890676,tertile
+Large Metropolitan,cond,state,(Intercept),AR,0.42666156900704183,0.4650683165134345,tertile
+Large Metropolitan,cond,state,(Intercept),IL,-0.5607601121186598,0.3418760252519405,tertile
+Large Metropolitan,cond,state,(Intercept),IN,0.9321497863595727,0.3340023518150847,tertile
+Large Metropolitan,cond,state,(Intercept),KY,0.14390187052538767,0.34472206461755894,tertile
+Large Metropolitan,cond,state,(Intercept),MI,0.5690971943789283,0.3323525525973983,tertile
+Large Metropolitan,cond,state,(Intercept),MN,1.1655581598456244,0.33476857441553926,tertile
+Large Metropolitan,cond,state,(Intercept),PA,-1.3923326934249145,0.3625147103464736,tertile
+Large Metropolitan,cond,state,(Intercept),WI,-1.180066808402916,0.3719533520752789,tertile
+Large Metropolitan,zi,state,(Intercept),AR,-0.14160582811577058,1.3060055233844798,tertile
+Large Metropolitan,zi,state,(Intercept),IL,-0.7124576084193637,1.2785495835230405,tertile
+Large Metropolitan,zi,state,(Intercept),IN,-0.45229811566043665,1.0518928269405945,tertile
+Large Metropolitan,zi,state,(Intercept),KY,-0.5536620360287094,0.9923344615160457,tertile
+Large Metropolitan,zi,state,(Intercept),MI,-0.17938459599694873,1.2884645222058906,tertile
+Large Metropolitan,zi,state,(Intercept),MN,-0.09886120158950981,1.1833519316729253,tertile
+Large Metropolitan,zi,state,(Intercept),PA,2.421504381266077,1.9301474289173093,tertile
+Large Metropolitan,zi,state,(Intercept),WI,0.20797841029610492,1.284596207083298,tertile
+Medium/Small Metropolitan,cond,state,(Intercept),AR,0.62354947363799,0.3453601236361092,tertile
+Medium/Small Metropolitan,cond,state,(Intercept),IL,1.2455034463349108,0.34160311577034314,tertile
+Medium/Small Metropolitan,cond,state,(Intercept),IN,0.1262212160184355,0.34754049505497886,tertile
+Medium/Small Metropolitan,cond,state,(Intercept),KY,-0.11453689719254014,0.3524224507987777,tertile
+Medium/Small Metropolitan,cond,state,(Intercept),MI,0.1977648555342927,0.3431179503352362,tertile
+Medium/Small Metropolitan,cond,state,(Intercept),MN,0.8560035814741961,0.35189264983492025,tertile
+Medium/Small Metropolitan,cond,state,(Intercept),PA,-1.7537265084860465,0.36299637292237663,tertile
+Medium/Small Metropolitan,cond,state,(Intercept),WI,-1.1397461339236765,0.3656626281997456,tertile
+Medium/Small Metropolitan,zi,state,(Intercept),AR,-0.3417550579995663,1.0961545860309823,tertile
+Medium/Small Metropolitan,zi,state,(Intercept),IL,-1.370342488683159,1.1541886688372447,tertile
+Medium/Small Metropolitan,zi,state,(Intercept),IN,-0.22765563394413718,1.0117202715417786,tertile
+Medium/Small Metropolitan,zi,state,(Intercept),KY,-0.794232852515953,1.0522008624308206,tertile
+Medium/Small Metropolitan,zi,state,(Intercept),MI,-0.6649207165287061,1.4537625941946954,tertile
+Medium/Small Metropolitan,zi,state,(Intercept),MN,-0.5715996076275864,1.175788311377942,tertile
+Medium/Small Metropolitan,zi,state,(Intercept),PA,3.6658538421729987,1.6608823482205444,tertile
+Medium/Small Metropolitan,zi,state,(Intercept),WI,1.319466830017485,1.2090250116744454,tertile
+Micropolitan/Non-core,cond,state,(Intercept),AR,0.04405743871693004,0.3710225817296276,tertile
+Micropolitan/Non-core,cond,state,(Intercept),IL,0.6730045446374462,0.3617258729245325,tertile
+Micropolitan/Non-core,cond,state,(Intercept),IN,0.5296172404918159,0.3627021914479054,tertile
+Micropolitan/Non-core,cond,state,(Intercept),KY,-0.03141261164815608,0.3713236276113918,tertile
+Micropolitan/Non-core,cond,state,(Intercept),MI,0.5902643262780077,0.3609059727206904,tertile
+Micropolitan/Non-core,cond,state,(Intercept),MN,1.1407833960700633,0.36533295218039186,tertile
+Micropolitan/Non-core,cond,state,(Intercept),PA,-2.0545241281301196,0.5455563509100559,tertile
+Micropolitan/Non-core,cond,state,(Intercept),WI,-0.7657099432879613,0.3881005993596905,tertile
+Micropolitan/Non-core,zi,state,(Intercept),AR,-1.0534003656059139,0.6057811127397893,tertile
+Micropolitan/Non-core,zi,state,(Intercept),IL,-0.9524901334159849,0.5727957834585011,tertile
+Micropolitan/Non-core,zi,state,(Intercept),IN,-0.6918143656108454,0.6035696143223392,tertile
+Micropolitan/Non-core,zi,state,(Intercept),KY,0.2265667237165269,0.5635171818399176,tertile
+Micropolitan/Non-core,zi,state,(Intercept),MI,-0.5778708869695853,0.5693059112591512,tertile
+Micropolitan/Non-core,zi,state,(Intercept),MN,-0.7100204180076788,0.6180763140549861,tertile
+Micropolitan/Non-core,zi,state,(Intercept),PA,2.7704119882641463,0.7036842979570916,tertile
+Micropolitan/Non-core,zi,state,(Intercept),WI,1.123319729569598,0.5770201590340481,tertile
+All counties,cond,state,(Intercept),AR,0.27051759832985794,0.32768570443527423,continuous
+All counties,cond,state,(Intercept),IL,0.7300224430107233,0.32503021944599075,continuous
+All counties,cond,state,(Intercept),IN,0.4478291608287307,0.3257165976490873,continuous
+All counties,cond,state,(Intercept),KY,-0.02395570061791626,0.3286744752647643,continuous
+All counties,cond,state,(Intercept),MI,0.4657088314298393,0.32523059119670683,continuous
+All counties,cond,state,(Intercept),MN,1.0420861371376404,0.3264658996717516,continuous
+All counties,cond,state,(Intercept),PA,-1.8140243138662173,0.33785736032989444,continuous
+All counties,cond,state,(Intercept),WI,-1.0998530610287789,0.3356789229206984,continuous
+All counties,zi,state,(Intercept),AR,-0.6710380767881949,0.49950636920215447,continuous
+All counties,zi,state,(Intercept),IL,-1.0034070379616093,0.47241986738381786,continuous
+All counties,zi,state,(Intercept),IN,-0.6318123770393643,0.4727926368932945,continuous
+All counties,zi,state,(Intercept),KY,-0.08565611443426861,0.4613663821082581,continuous
+All counties,zi,state,(Intercept),MI,-0.6652073424661031,0.48152829626270927,continuous
+All counties,zi,state,(Intercept),MN,-0.02816247483093536,0.5130504299126308,continuous
+All counties,zi,state,(Intercept),PA,2.0981310978432353,0.490773332541379,continuous
+All counties,zi,state,(Intercept),WI,1.1142503026688138,0.4777700013859263,continuous
+Large Metropolitan,cond,state,(Intercept),AR,0.5334817308466786,0.4764315902277192,continuous
+Large Metropolitan,cond,state,(Intercept),IL,-0.11663845797387239,0.3535202531444128,continuous
+Large Metropolitan,cond,state,(Intercept),IN,0.9928985473294429,0.34902860445102063,continuous
+Large Metropolitan,cond,state,(Intercept),KY,0.20318672231645568,0.3581546452386743,continuous
+Large Metropolitan,cond,state,(Intercept),MI,0.6354643956949082,0.34700830111198133,continuous
+Large Metropolitan,cond,state,(Intercept),MN,0.8098171985059314,0.3498101095782363,continuous
+Large Metropolitan,cond,state,(Intercept),PA,-1.8892879958249922,0.3776999230764981,continuous
+Large Metropolitan,cond,state,(Intercept),WI,-1.0622727454769136,0.3849065270974897,continuous
+Large Metropolitan,zi,state,(Intercept),AR,-0.021508661571920065,0.9031816887732931,continuous
+Large Metropolitan,zi,state,(Intercept),IL,-0.5039059829328939,0.7725102184964293,continuous
+Large Metropolitan,zi,state,(Intercept),IN,0.06560475208591755,0.6727224952329065,continuous
+Large Metropolitan,zi,state,(Intercept),KY,-0.37778123139305936,0.7762196215795106,continuous
+Large Metropolitan,zi,state,(Intercept),MI,-0.2584304563712506,0.8535210868751367,continuous
+Large Metropolitan,zi,state,(Intercept),MN,-0.003125516329997116,0.7828320201022747,continuous
+Large Metropolitan,zi,state,(Intercept),PA,1.4942620516147869,1.2888252693746476,continuous
+Large Metropolitan,zi,state,(Intercept),WI,0.002482345597506777,0.7931032571829081,continuous
+Medium/Small Metropolitan,cond,state,(Intercept),AR,0.37932630358326463,0.331728842988807,continuous
+Medium/Small Metropolitan,cond,state,(Intercept),IL,1.2395421756481886,0.3280850363822319,continuous
+Medium/Small Metropolitan,cond,state,(Intercept),IN,0.1560582615353266,0.3329713129263414,continuous
+Medium/Small Metropolitan,cond,state,(Intercept),KY,-0.0706949725687631,0.33970184296878175,continuous
+Medium/Small Metropolitan,cond,state,(Intercept),MI,0.20400720981031448,0.3304444254486458,continuous
+Medium/Small Metropolitan,cond,state,(Intercept),MN,0.9005149306669818,0.339924011595185,continuous
+Medium/Small Metropolitan,cond,state,(Intercept),PA,-1.6925688388335203,0.35003196675962,continuous
+Medium/Small Metropolitan,cond,state,(Intercept),WI,-1.0752965157853085,0.3521995135386295,continuous
+Medium/Small Metropolitan,zi,state,(Intercept),AR,-0.3132135643313297,0.8845198944571764,continuous
+Medium/Small Metropolitan,zi,state,(Intercept),IL,-0.9583309607366297,0.8923286762349337,continuous
+Medium/Small Metropolitan,zi,state,(Intercept),IN,0.06343063367837831,0.7959876764086861,continuous
+Medium/Small Metropolitan,zi,state,(Intercept),KY,-0.7111222899969855,0.8701836459520966,continuous
+Medium/Small Metropolitan,zi,state,(Intercept),MI,-0.40195355130679045,1.111242748377999,continuous
+Medium/Small Metropolitan,zi,state,(Intercept),MN,-0.15861927495871378,0.9084658123433215,continuous
+Medium/Small Metropolitan,zi,state,(Intercept),PA,2.5410195184560496,1.054090649810004,continuous
+Medium/Small Metropolitan,zi,state,(Intercept),WI,0.6304739384862323,0.8877643396053587,continuous
+Micropolitan/Non-core,cond,state,(Intercept),AR,0.03573749581760546,0.374446048167143,continuous
+Micropolitan/Non-core,cond,state,(Intercept),IL,0.706139186877916,0.36502099611217287,continuous
+Micropolitan/Non-core,cond,state,(Intercept),IN,0.42253919047095717,0.3659967701485767,continuous
+Micropolitan/Non-core,cond,state,(Intercept),KY,-0.022737291822109866,0.374716804087705,continuous
+Micropolitan/Non-core,cond,state,(Intercept),MI,0.5747967479574108,0.36439292010247576,continuous
+Micropolitan/Non-core,cond,state,(Intercept),MN,1.2158776384077017,0.37093752551354015,continuous
+Micropolitan/Non-core,cond,state,(Intercept),PA,-2.0857680645898546,0.5465430630098822,continuous
+Micropolitan/Non-core,cond,state,(Intercept),WI,-0.7197185209614732,0.39200041550830583,continuous
+Micropolitan/Non-core,zi,state,(Intercept),AR,-1.0302418150360884,0.601973201180539,continuous
+Micropolitan/Non-core,zi,state,(Intercept),IL,-0.9328174566397259,0.5657011079147883,continuous
+Micropolitan/Non-core,zi,state,(Intercept),IN,-0.7958316557706826,0.5978844209346926,continuous
+Micropolitan/Non-core,zi,state,(Intercept),KY,0.09410511082904599,0.5676219893795851,continuous
+Micropolitan/Non-core,zi,state,(Intercept),MI,-0.6265293380801822,0.5652125150224775,continuous
+Micropolitan/Non-core,zi,state,(Intercept),MN,-0.5175559046072421,0.6281483568903466,continuous
+Micropolitan/Non-core,zi,state,(Intercept),PA,2.7255421267928486,0.6810326717824131,continuous
+Micropolitan/Non-core,zi,state,(Intercept),WI,1.2181884494213648,0.5769386826889402,continuous
